@@ -74,9 +74,7 @@ Deploying your new site to Vercel is simple, and can be done by following their 
 
 [![GitHub followers](https://img.shields.io/github/followers/tbakerx.svg?style=social&label=Follow)](https://github.com/tbakerx/)
 
-## Stargazers
 
-[![Stargazers repo roster for @tbakerx/react-resume-template](https://reporoster.com/stars/dark/tbakerx/react-resume-template)](https://github.com/tbakerx/react-resume-template/stargazers)
 
 ## Forkers
 
